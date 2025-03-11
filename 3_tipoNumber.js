@@ -55,9 +55,6 @@
     ParseFloat: Converte uma string em um número decimal.
     parseFloat("10") : 10   
 
-    ParseString: Converte um número em uma string.
-    String(10) : "10"
-
     TypeOf: Retorna o tipo de dado.
     typeof 10 : "number"
     typeof "10" : "string"
